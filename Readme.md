@@ -1,0 +1,2 @@
+# EEG-Based-Emotion-Recognition-Using-Quantum-Machine-Learning
+ Recognizing emotions is crucial for the development of artificial intelligence in various fields. This project explores the application of quantum models on emotion recognition from electroencephalogram (EEG) signals and  compares its performance to traditional Models.
