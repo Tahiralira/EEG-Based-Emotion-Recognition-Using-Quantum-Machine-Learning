@@ -31,10 +31,25 @@ For SEED Implementation:
 ```bash
 Ctrl + Enter on each cell of newqnn.ipynb
 ```
-For Kaggle Implementation:
+For Kaggle DEAP Implementation:
 ```bash
 Ctrl + Enter on each cell of QC_kaggle.ipynb
 ```
+## Testing
+To test the saved .pth models that we trained or that you train from the above scripts
+In the Main Project directory
+```bash
+pip install -r requirements.txt
+```
+Open terminal
+```bash
+Cntrl + `
+```
+Run this script
+```bash
+python run_models.py
+```
+
 ## Structure
 
 - `data/`: The Dataset of SEED is restricted under EULA guidelines from being publically shared but you may request access from https://bcmi.sjtu.edu.cn/home/seed/seed.html
