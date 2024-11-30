@@ -6,6 +6,14 @@ This repository contains the implementation of a hybrid quantum-classical framew
 
 The aim of this project is to explore the potential of Quantum Neural Networks (QNNs) in processing EEG data to recognize human emotions. This approach is expected to tap into the quantum advantages of processing information, potentially leading to more accurate and efficient emotion recognition systems.
 
+## Results
+### Our research was aimed at identifying if better approaches existed, specifically quantum approaches to extract features from EEGs and identify the emotions they portray, and we managed to do this with an 73% accuracy on DEAP and 45.79% on SEED.
+Below is how this work could be visualized and applied.
+
+### Rendered Ideal Results
+
+
+
 ### Features
 
 - **Quantum Feature Extraction**: Utilizes quantum circuits as feature extractors to process EEG data.
@@ -57,9 +65,11 @@ python run_models.py
 ```
 
 ## Structure
-
-- `data/`: The Dataset of SEED is restricted under EULA guidelines from being publically shared but you may request access from https://bcmi.sjtu.edu.cn/home/seed/seed.html
 - `Kaggle/`: Includes the Python scripts for the quantum and classical models implemented with Kaggle.
+
+## Data
+- `SEED`: The Dataset of SEED is restricted under EULA guidelines from being publically shared but you may request access from https://bcmi.sjtu.edu.cn/home/seed/seed.html
+- `DEAP`: The secondary dataset was obtained from the kaggle project referenced in the report [3].
 
 ## Contributing
 
