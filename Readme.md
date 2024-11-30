@@ -7,12 +7,22 @@ This repository contains the implementation of a hybrid quantum-classical framew
 The aim of this project is to explore the potential of Quantum Neural Networks (QNNs) in processing EEG data to recognize human emotions. This approach is expected to tap into the quantum advantages of processing information, potentially leading to more accurate and efficient emotion recognition systems.
 
 ## Results
-### Our research was aimed at identifying if better approaches existed, specifically quantum approaches to extract features from EEGs and identify the emotions they portray, and we managed to do this with an 73% accuracy on DEAP and 45.79% on SEED.
+Our research was aimed at identifying if better approaches existed, specifically quantum approaches to extract features from EEGs and identify the emotions they portray, and we managed to do this with an 73% accuracy on DEAP and 45.79% on SEED.
 Below is how this work could be visualized and applied.
 
 ### Rendered Ideal Results
 
+![Model Predicted Emotions](results/q2.png)
 
+### Process Visualization
+Step 1: Taking EEG signal as input
+![Input Signal](results/q3.png)
+
+Step 2: Embedding and Quantum Layers
+![Hybrid-Quantum ML](results/q4.png)
+
+Step 3: Get output an Emotion
+![Predicted Emotion](results/q4.png)
 
 ### Features
 
