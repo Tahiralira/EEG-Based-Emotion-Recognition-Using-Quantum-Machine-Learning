@@ -12,17 +12,17 @@ Below is how this work could be visualized and applied.
 
 ### Rendered Ideal Results
 
-![Model Predicted Emotions](results/q2.png)
+![Model Predicted Emotions](results/q2.png | width=400)
 
 ### Process Visualization
 Step 1: Taking EEG signal as input
-![Input Signal](results/q3.png)
+![Input Signal](results/q3.png | width=400)
 
 Step 2: Embedding and Quantum Layers
-![Hybrid-Quantum ML](results/q4.png)
+![Hybrid-Quantum ML](results/q4.png | width=400)
 
 Step 3: Get output an Emotion
-![Predicted Emotion](results/q4.png)
+![Predicted Emotion](results/q4.png | width=400)
 
 ### Features
 
