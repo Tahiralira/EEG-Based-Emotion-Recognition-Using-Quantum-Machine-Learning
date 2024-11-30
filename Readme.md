@@ -19,8 +19,14 @@ To set up a local development environment, follow these steps:
 ```bash
 # Clone the repository
 git clone https://github.com/Tahiralira/EEG-Based-Emotion-Recognition-Using-Quantum-Machine-Learning.git
-cd EEG-Based-Emotion-Recognition-Using-Quantum-Machine-Learning
+```
 
+```bash
+# Now Enter the Directory
+cd EEG-Based-Emotion-Recognition-Using-Quantum-Machine-Learning
+```
+
+```bash
 # Install required libraries
 pip install -r requirements.txt
 ```
